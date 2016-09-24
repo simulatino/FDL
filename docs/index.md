@@ -1,6 +1,6 @@
 ---
 ---
 
-# FDL.![simulati.no logo](logo.svg)
+# `FDL.`![simulati.no logo](logo.svg)
 
-## Fawlty Drives Library
+## `Fawlty Drives Library`
