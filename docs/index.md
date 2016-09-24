@@ -1,6 +1,6 @@
 ---
 ---
 
-# `FDL.`![simulati.no logo](logo.svg =70x)
+# `FDL.`<img src="logo.svg" alt="simulati.no logo" style="height: 50px;"/>
 
 ## `Fawlty Drives Library`
